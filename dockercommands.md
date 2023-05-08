@@ -22,3 +22,5 @@ curl 0.0.0.0:8080
 
 docker stop jsonserver
 docker rm jsonserver
+
+# modify angular / react app to use the url - http://0.0.0.0:8080 for accessing jsonserver
