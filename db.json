@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "jsmith@example.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Ray",
+      "last_name": "Snyder",
+      "email": "rsny@edu.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Mike",
+      "last_name": "Jayson",
+      "email": "mj@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Leslie",
+      "last_name": "Andrews",
+      "email": "landrew@yahoo.com"
+    },
+    {
+      "first_name": "Robin",
+      "last_name": "Smith",
+      "email": "rsmith@college.edu.us",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "title": "Java",
+      "content": "Java is the best language",
+      "id": 1
+    }
+  ],
+  "courses": [],
+  "Quiz": {
+    "Questions": [
+      {
+        "id": 1,
+        "statement": "what is a component",
+        "choices": ["a component is...", "a component is a directive.."],
+        "answer": "2"
+      }
+    ]
+  }
+}
